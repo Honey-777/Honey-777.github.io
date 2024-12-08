@@ -5,7 +5,6 @@
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
-Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
 
 ## Features
 
