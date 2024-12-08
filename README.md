@@ -1,8 +1,7 @@
-# Dev Portfolio
-
-🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
-
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
+# Welcome My Portfolio
+우선 저의 포트폴리오에 오신걸 환영합니다!<br>
+저는 아래 demo 버전을 모티브하여 좀 더 제가 좋아하고 저만의 추억들을 공유하는 자리입니다!<br>
+편히 봐주시고 부족한 부분이 있으면 피드백 부탁드립니다!!🙇🙇
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
